@@ -1,0 +1,4 @@
+Major person  Person{name='Ana Popescu', age=20, position='manager'}
+Major person  Person{name='Dan Mihai', age=32, position='director marketing'}
+Major person  Person{name='Mihaela Padureanu', age=42, position='asistent manager'}
+Major person  Person{name='Ciprian Mihailescu', age=55, position='portar'}
